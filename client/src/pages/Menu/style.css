@@ -1,0 +1,9 @@
+#menuTitle{
+    margin-top: 40px;
+    font-family: 'Caveat', cursive;
+    text-transform: uppercase;
+}
+
+.noResults{
+    font-family: 'Alfa Slab One', cursive;
+  }

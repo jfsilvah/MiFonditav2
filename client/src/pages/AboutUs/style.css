@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Nothing You Could Do';
+    font-size: 70px;
+    font-weight: bolder;
+}
+
+h3{
+    font-family: 'Nothing You Could Do';
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.cardContainer {
+    width: 70vw;
+    display: inline-block;
+}
+.aboutUsFont{
+    font-family: 'Mukta', sans-serif;
+}

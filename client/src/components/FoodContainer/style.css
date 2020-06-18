@@ -1,0 +1,31 @@
+.foodCard {
+    background: #fff;
+    border-radius: 5px;
+    margin: 0.7rem;
+    position: relative;
+    width: 10vw;
+    height: 10vw;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+  }
+  
+  .foodCard > .img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    background:#6CADDC;
+  }
+  .foodCard > .img-container > img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  
+  .foodCard:hover {
+    transform: scale(1.1);
+  }
+
+  #menuImage{
+    width: 10vw;
+    height: 10vw;
+  }

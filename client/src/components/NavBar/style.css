@@ -1,0 +1,11 @@
+#navBarUserImage{
+    width: 35px;
+    height: 35px;
+    vertical-align: middle;
+}
+
+#navBarLogoImage{
+    width: 60px;
+    height: auto;
+    margin-top: 2px;
+}

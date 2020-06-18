@@ -1,0 +1,20 @@
+.card-action-right {
+    float: right;
+  }
+  
+  .card__date__day {
+    display: block;
+    font-size: 14px;
+  }
+  .card__date__month {
+    display: block;
+    font-size: 10px;
+    text-transform: uppercase;
+  }
+
+  .orderCard{
+    border-radius: 5px;
+  }
+  .noResults{
+    font-family: 'Alfa Slab One', cursive;
+  }

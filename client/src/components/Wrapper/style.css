@@ -1,0 +1,14 @@
+.wrapper2 {
+    margin: 0 10% 0 10%;
+    padding: 20%;
+    padding-top: 0px;
+    margin-top: 0%;
+    background:white;
+    height: 70%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
