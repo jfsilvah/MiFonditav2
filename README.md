@@ -5,6 +5,7 @@
 * This project is a copy of the original group project where you can check the commit history and the different versions
 * Second version of the Full Stack application now developed with React.js, Bootstrap, CSS and Materialize in the front end and Node.js, Express.js, Sequilize.js and MySQL database
 * It's a new prototype where the app now has a login and registration form for new users where Firebase saves the password and can use a Google account to enter to the app
+* When a user is registered an email is sent to confirm the success register
 * When user has signed in can select different menu options and create the order
 
 ![Screenshot](client/public/assets/images/screenshot.JPG)
@@ -31,6 +32,7 @@
 - MySQL DB
 - Sequilize.js
 - Firebase
+- Node Mailer
 
 ## Group Project
 https://github.com/alfa9317/MexFood-App
