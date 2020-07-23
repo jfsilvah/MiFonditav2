@@ -16,18 +16,18 @@
   "author": "Francisco Silva",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^4.1.2",
-    "nodemon": "^1.18.7"
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
     "if-env": "^1.0.4",
-    "mysql": "^2.16.0",
-    "mysql2": "^1.6.5",
-    "nodemailer": "^6.4.3",
-    "sequelize": "^5.10.0",
-    "sequelize-cli": "^5.5.0"
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "nodemailer": "^6.4.10",
+    "sequelize": "^6.3.3",
+    "sequelize-cli": "^6.2.0"
   }
 }
