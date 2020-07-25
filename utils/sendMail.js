@@ -1,6 +1,7 @@
 const nodemailer = require("nodemailer");
 
 module.exports = {
+
     newCustomer: function (email) {
         console.log("Entro a enviar correo");
         var transporter = nodemailer.createTransport({
