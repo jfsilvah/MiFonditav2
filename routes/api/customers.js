@@ -7,7 +7,7 @@ router.route("/api/customers")
 router.route("/api/validateEmail/:email")
   .get(customersController.validateEmail)
 
-  router.route("/api/customers/:id")
+router.route("/api/customers/:id")
   .get(customersController.findById)
   .put(customersController.update)
   .delete(customersController.remove)
