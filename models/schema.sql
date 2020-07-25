@@ -28,6 +28,7 @@ INSERT INTO foods (FoodName,FoodType,Category,Price,Picture,createdAt,updatedAt)
 INSERT INTO foods (FoodName,FoodType,Category,Price,Picture,createdAt,updatedAt) values ("Cubiertos","comida","complemento",0,"../assets/images/comida/cubiertos.jpg",sysdate(),sysdate());
 INSERT INTO foods (FoodName,FoodType,Category,Price,Picture,createdAt,updatedAt) values ("LimÛn","comida","complemento",0,"../assets/images/comida/limon.jpg",sysdate(),sysdate());
 
+
 INSERT INTO foods (FoodName,FoodType,Category,Price,Picture,createdAt,updatedAt) values ("Sopa de Fideo","vegetariana","entrada",20,"../assets/images/comida/sopa-de-fideo.jpg",sysdate(),sysdate());
 INSERT INTO foods (FoodName,FoodType,Category,Price,Picture,createdAt,updatedAt) values ("Lentejas","vegetariana","entrada",20,"../assets/images/comida/consome-de-pollo.jpg",sysdate(),sysdate());
 INSERT INTO foods (FoodName,FoodType,Category,Price,Picture,createdAt,updatedAt) values ("Arroz a la mexicana","vegetariana","guarnicion",20,"../assets/images/comida/arroz-a-la-mexicana.jpg",sysdate(),sysdate());
