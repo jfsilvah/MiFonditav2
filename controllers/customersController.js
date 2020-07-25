@@ -1,7 +1,6 @@
 const email = require("../utils/sendMail");
 const db = require("../models");
 
-
 module.exports = {
   findAll: function(req, res) {
     db.Customer.findAll().then(function(dbCustomer) {
