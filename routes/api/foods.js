@@ -1,4 +1,5 @@
 const router = require("express").Router();
+
 const foodsController = require("../../controllers/foodsController");
 
 router.route("/api/foods/:type")
