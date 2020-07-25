@@ -1,5 +1,6 @@
 const db = require("../models");
 
+
 module.exports = {
   findType: function(req, res) {
     db.Foods.findAll({
